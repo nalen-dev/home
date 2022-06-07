@@ -958,8 +958,16 @@ footer h2{
 }
 
 .right-footer i:hover{
-    color: #1c939b;
-}
+    color: #707070;
+    }
+
+    .left-footer .phone a{
+        transition: all 0.15s ease;
+    }
+
+.left-footer .phone a:hover {
+        color: #707070;
+    }
 
 /* Footer */
 
